@@ -42,6 +42,7 @@ Run
 > `MediaOrganizer_Start.ps1`
 
 *If you encounter ExecutionPolicy problem, please see:
+
 <https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies#powershell-execution-policies>
 
 ## How it works
