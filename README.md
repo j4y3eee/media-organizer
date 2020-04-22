@@ -2,6 +2,13 @@
 
 Organize your photos and videos by date taken.
 
+## Supported Formats
+
+- jpg
+- mp4
+- HEIC
+- MOV
+
 ## Features
 
 - Organize by date
